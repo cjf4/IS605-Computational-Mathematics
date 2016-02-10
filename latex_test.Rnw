@@ -1,0 +1,15 @@
+\documentclass{article}
+
+\begin{document}
+
+Let \( f \) be the function defined by \( f(x) = 3x + 7 \).
+
+y &= \begin{bmatrix}
+       x_{1} \\
+       x_{2} \\
+       \vdots \\
+       x_{m}
+     \end{bmatrix}
+
+
+\end{document}
